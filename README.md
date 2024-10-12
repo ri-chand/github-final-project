@@ -1,2 +1,7 @@
-# projectforgit
-This project demonstrates proficiency in using Git and GitHub for version control. This project demonstrates proficiency in using Git and GitHub for version control. 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
