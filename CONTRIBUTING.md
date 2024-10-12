@@ -1,4 +1,1 @@
-YOU CAN CONTRIBUTE BY
--submitting issues
--making pull requests
--test other contributions
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
